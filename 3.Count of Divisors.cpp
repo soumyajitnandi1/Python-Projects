@@ -23,6 +23,7 @@ int factors(int n){
     return res;
 }
 
+//FOR IO
 int main(){
     int n;
     cin>>n;
